@@ -55,7 +55,7 @@ Awesome Books is an app to implement pure javascript ES6. You can add, delete an
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://rimuru-tempest-26.github.io/Awesome-books/)
+- [Live Demo Link](https://rimuru-tempest-26.github.io/Awesome-Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +77,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Rimuru-Tempest-26/Awesome-books.git
+  git clone https://github.com/Rimuru-Tempest-26/Awesome-Books-ES6.git
 ```
 
 ### Install
@@ -134,10 +134,6 @@ Example:
 - GitHub: [@phonekhainghein](https://github.com/Rimuru-Tempest-26)
 - Twitter: [@phonekhainghein](https://twitter.com/PhoneKhaingHein)
 - LinkedIn: [Phone Khaing Hein](https://www.linkedin.com/in/phone-khaing-hein-759497216/)
-
-👤 **Boniface Dennis**
-
-- GitHub: [@BonifaceDennis](https://github.com/boniface193)
 
 <!-- FUTURE FEATURES -->
 
