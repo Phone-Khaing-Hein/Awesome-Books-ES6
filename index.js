@@ -1,4 +1,5 @@
 import { showBookList, addBook } from './modules/book.js';
+import generateDate from './modules/date.js';
 
 const bookForm = document.querySelector('#bookForm');
 const bookList = document.querySelector('#bookList');
@@ -58,3 +59,6 @@ const show = (element, link) => {
     }
   });
 });
+
+// add date
+generateDate();
